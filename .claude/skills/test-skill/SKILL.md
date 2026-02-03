@@ -1,6 +1,6 @@
 ---
 name: "Test Skill for OAuth"
-description: "A test skill to verify OAuth token integration and skill invocation in sprite environments. Use this when testing OAuth authentication, verifying skill discovery, or demonstrating skill functionality with API credentials."
+description: "Use this skill to test OAuth authentication, verify skill discovery in cloned repositories, demonstrate skill functionality with OAuth tokens, or validate OAuth API credentials and token handling."
 ---
 
 # Test Skill for OAuth
